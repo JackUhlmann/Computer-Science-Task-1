@@ -1,4 +1,4 @@
-q#import my random number generator and my system exit functions
+#import my random number generator and my system exit functions
 import random
 import sys
 #creating the variables so they are available to be used later
